@@ -332,9 +332,9 @@ if ($sum >= 3.67) {
 
     <table>
 
-    <tr><td style= "font-size:30px; padding-bottom: 20px;">Links</td><td style= "font-size:30px">Partners</td><td style= "font-size:30px">Other</td></tr>
-    <tr><td><a class = "a-bottom" href = "https://github.com/">Github</a></td><td style= "font-weight:lighter;">Jason Ellis</td><td></td></tr>
-    <tr><td></td><td style= "font-weight:lighter;">Brian Brozovska</td><td></td></tr>
+    <tr><td style= "font-size:30px; padding-bottom: 20px;">Links</td><td style= "font-size:30px">Creators</td><td style= "font-size:30px">Other</td></tr>
+    <tr><td><a class = "a-bottom" href = "git@github.com:brianbrzoska/averageCalculator.git">Github</a></td><td style= "font-weight:lighter;">Jason Ellis</td><td></td></tr>
+    <tr><td></td><td style= "font-weight:lighter;">Brian Brzoska</td><td></td></tr>
     <tr><td></td><td style= "font-weight:lighter;">Kaden Fuller-Aujla</td><td></td></tr>
 
 </table>
