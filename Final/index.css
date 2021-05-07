@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.container {
+    width: 60%;
+    height: auto; 
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 75px;
+    border-radius: 6px;
+    background-color: #E5E6E0;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+h1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
+.h1-top {
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
+.h1-bottom {
+    float: right;
+    margin-right: 20%;
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
+
+.container input[type = "text"], input[type = "number"] , select{
+
+    width: 200px;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    outline: none;
+    margin-left: 11%;
+    border: none;
+
+}
+
+.container input[type = "text"]::placeholder, input[type="number"]::placeholder{
+
+    color:black;
+    font-size: 14px;
+
+}
+
+#calculatebtn {
+    position: relative;
+    margin-top: 80px;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    margin-bottom: 15px;
+    width: 15%;
+    background-color:#054D5D;
+    border: #054D5D;
+}
+
+#calculatebtn:hover {
+    transition: .3s;
+    background-color: #07687e;
+}
+
+
+#navigation {
+    background-color: #054D5D;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+
+a {
+
+    text-decoration: none;
+    outline: none;
+    color: white;
+
+
+}
+
+table {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    width: 100%;
+    float: left;
+}
+
+
+td {
+    padding-left:127px;
+    width: 20%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: white;
+}
+
+footer {
+    background-color: #f5f5f5;
+    height:200px;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+
+.a-bottom {
+    text-decoration: none !important;
+    outline: none;
+    color: black;
+    outline: none;
+}
+
+.a-bottom:hover {
+    color: black;
+}
