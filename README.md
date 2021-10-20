@@ -1,4 +1,4 @@
-# averageCalculator
+# Basic Average Calculator
 
 This project has two different calculator components that are inside. The first calculator is a GPA 
 calculator. This calculator allows the user to enter the name of the class, the letter grade, and 
